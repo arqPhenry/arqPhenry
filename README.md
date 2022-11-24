@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arqPhenry, Henry Navas
 - 👀 I’m interested in how to improve the processes of creating architecture, urban living and quality of life, through programming.
-- 🌱 I’m currently learning Javascript, with specialization in backend, big data and IoT.
-- 💞️ I’m looking to collaborate on web development projects, backend and creation of digital tools.
-- 📫 How to reach me: Twitter: @elphenry, Mail: navashenrym@gmail.com
+- 🌱 I’m currently learning Javascript, with specialization in front-end, and React.js.
+- 💞️ I’m looking to collaborate on web development projects, and creation of digital tools with unique interfaces and immersive uses.
+- 📫 How to reach me: mail: navashenrym@gmail.com.
