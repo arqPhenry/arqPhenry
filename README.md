@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @arqPhenry, Henry Navas
-- 👀 I’m interested in how to improve the processes of creating architecture, urban living and quality of life, through programming.
-- 🌱 I’m currently learning Javascript, with specialization in front-end, and React.js.
-- 💞️ I’m looking to collaborate on web development projects, and creation of digital tools with unique interfaces and immersive uses.
+- 👋 Hi, I’m Henry Navas, Front-end web developer specialized in React.js.
+- 👀 I’m interested in developing highly impactful digital products with unique interfaces and immersive uses.
+- 🌱 I’m currently learning Back-end development with Node.js, to complement the last infinity gem as Full-stack developer.
+- 💞️ I’m looking to collaborate on web development projects, mobile or no-code too.
 - 📫 How to reach me: mail: navashenrym@gmail.com.
